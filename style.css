@@ -527,7 +527,7 @@ footer img {
     .parallax {
         position: relative;
         height: 100vh; /* Ocupa toda la pantalla */
-        background-image: url(./img/namephoneback.png); /* Cambia la imagen */
+        background-image: url(./img/namephoneback1.png); /* Cambia la imagen */
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -599,3 +599,6 @@ footer img {
             width: 140px;
             margin: auto;
         }
+.end {
+    color: #beceb3;
+}
